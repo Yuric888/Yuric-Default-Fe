@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "banana",
+    "price": 2.99,
+    "url": "images/banana.png"
+  },
+  {
+    "id": 2,
+    "name": "orange",
+    "price": 3.99,
+    "url": "images/orange.png"
+  },
+  {
+    "id": 3,
+    "name": "mango",
+    "price": 4.99,
+    "url": "images/mango.png"
+  },
+  {
+    "id": 4,
+    "name": "sapodilla",
+    "price": 5.99,
+    "url": "images/sapodilla.png"
+  },
+  {
+    "id": 5,
+    "name": "longan",
+    "price": 6.99,
+    "url": "images/longan.png"
+  },
+  {
+    "id": 6,
+    "name": "guava",
+    "price": 7.99,
+    "url": "images/guava.png"
+  },
+  {
+    "id": 7,
+    "name": "grape",
+    "price": 8.99,
+    "url": "images/grape.png"
+  },
+  {
+    "id": 8,
+    "name": "jackfruit",
+    "price": 9.99,
+    "url": "images/jackfruit.png"
+  }
+]
